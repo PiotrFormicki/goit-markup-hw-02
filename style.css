@@ -1,0 +1,162 @@
+body {
+  font-family: "Roboto", "raleway";
+}
+
+header {
+  background-color: #ffffff;
+}
+
+#webstudio {
+  text-decoration: none;
+  color: #000000;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+#webstudio span,
+.footer-web span {
+  color: #2196f3;
+  text-decoration: none;
+}
+.nav-block {
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+}
+ul {
+  list-style: none;
+  font-family: "Roboto";
+}
+li [href]:hover {
+  color: #2196f3;
+}
+li [href] {
+  color: #212121;
+  text-decoration: none;
+}
+a[href="mailto:info@example.com"]:focus,
+a[href="tel:+48111111111"]:focus {
+  color: #2196f3;
+}
+a[href="mailto:info@example.com"]:hover,
+a[href="tel:+48111111111"]:hover {
+  color: #2196f3;
+}
+a[href="mailto:info@example.com"],
+a[href="tel:+48111111111"] {
+  font-family: "Roboto";
+  text-decoration: none;
+  color: #757575;
+  font-size: 14px;
+  line-height: 16px;
+}
+button {
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  background-color: #f5f4fa;
+  border: none;
+  font-family: "roboto";
+  font-weight: 500;
+  border-radius: 4px;
+}
+button:hover {
+  background-color: #2196f3;
+  border: none;
+  color: #ffffff;
+}
+footer {
+  background-color: #2f303a;
+  text-decoration: none;
+}
+.secondary-description {
+  color: #757575;
+  font-size: 16px;
+  line-height: 1, 6;
+  font-family: "Roboto";
+}
+p {
+  color: #212121;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  font-family: "Roboto";
+}
+h2 .footer-web {
+  font-family: "Raleway";
+  color: #ffffff;
+  text-decoration: none;
+}
+h2 .footer-web span {
+  color: #2196f3;
+  font-family: "Raleway";
+}
+.location address {
+  text-emphasis-style: none;
+  color: #ffffff;
+}
+address {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+}
+.main-block {
+  background-color: #2f303a;
+  width: 1600px;
+  height: 600px;
+}
+h1 {
+  color: #ffffff;
+  font-family: "roboto";
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 1.36;
+}
+.order {
+  background-color: #2196f3;
+  color: #ffffff;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+}
+.order:hover {
+  background-color: #ffffff;
+  color: #2196f3;
+}
+h3 {
+  color: #212121;
+  font-size: 14px;
+  line-height: 1.17;
+  font-family: "roboto";
+  font-weight: 700;
+}
+.advantages li {
+  color: #757575;
+  font-size: 14px;
+  line-height: 1, 7;
+}
+h2.about {
+  font-family: "roboto";
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+}
+.team h2 {
+  font-family: "roboto";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.17;
+}
+figcaption p {
+  font-family: "roboto";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.17;
+}
+figcaption p.specialty {
+  color: #757575;
+  font-family: "roboto";
+  font-size: 16px;
+  line-height: 1.17;
+}
